@@ -566,31 +566,7 @@ Delete → Seeker deletes an application
 
 ---
 
-## 🖥️ Screenshots
 
-Screenshots can be added here to showcase the application's interface.
-
-Recommended screenshots:
-
-1. Landing Page
-2. Job Seeker Login
-3. Job Seeker Dashboard
-4. Job Listing
-5. Job Details
-6. Job Application Form
-7. My Applications
-8. Recruiter Dashboard
-9. Add Job
-10. Recruiter Job Details
-11. Application List
-12. Admin Dashboard
-13. Job Verification
-
-Example:
-
-```markdown
-![Landing Page](screenshots/landing-page.png)
-```
 
 ---
 
